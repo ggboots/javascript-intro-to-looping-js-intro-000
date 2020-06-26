@@ -9,8 +9,7 @@ function forLoop(array){
   return array;
 }
 
-let num = 25
-function whileLoop(array){
+function whileLoop(num){
   while(num!=0){
     console.log(num)
     num -=1
