@@ -18,5 +18,3 @@ function whileLoop(array){
   return 'done';
 
 }
-
-
