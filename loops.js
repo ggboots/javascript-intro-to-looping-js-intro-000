@@ -15,5 +15,8 @@ function whileLoop(array){
     console.log(num)
     num -=1
   }
+  return 'done';
 
 }
+
+
